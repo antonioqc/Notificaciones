@@ -29,18 +29,7 @@ class NotificationController extends Controller
   
     // public function send(Request $request)
     // {
-    //     $user = User::first();
-  
-    //     $details = [
-    //         'greeting' => 'Hi Artisan',
-    //         'body' => 'This is my first notification from HackTheStuff',
-    //         'thanks' => 'Thank you for using HackTheStuff article!',
-    //         'actionText' => 'View My Site',
-    //         'actionURL' => url('https://hackthestuff.com'),
-    //         'order_id' => 'Order-20190000151'
-    //     ];
-  
-    //     Notification::send($user, new DemoNotification($details));
+        
    
     //     dd('Your notification send seuccessfully!');
     // }  
